@@ -23,8 +23,6 @@ void fun_1()
     cout<<"     |    |     "<<endl;
 }
 
-//this is just a git hub test
-
 void fun_2()
 {
     int digit;
