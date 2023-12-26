@@ -22,6 +22,9 @@ void fun_1()
     cout<<"   "<<space[2][0]<<" |  "<<space[2][1]<<" | "<<space[2][2]<<" "<<endl;
     cout<<"     |    |     "<<endl;
 }
+
+//this is just a git hub test
+
 void fun_2()
 {
     int digit;
